@@ -1,9 +1,9 @@
-## This Rscript is for Coursera course Exploring Data
-## uses data from the UC Irvine Machine Learning Repository specifically
-## the Electric power consumption dataset
-## This script is for plot 1 of project 1.
-## File name plot1.R
-##By Jperales
+# This Rscript is for Coursera course Exploring Data
+# uses data from the UC Irvine Machine Learning Repository specifically
+# the Electric power consumption dataset
+# This script is for plot 1 of project 1.
+# File name plot1.R
+# By Jperales
 
 #Create file handle, read subset of data
 fhandle <- file("household_power_consumption.txt")
